@@ -4,6 +4,8 @@ import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 
 // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure.
 bootstrapExtra().catch(e => console.error(e));
+// Calling bootstrapExtra will initiliaze all the "custom properties"  
+bootstrapExtra();
 
 let currentPopup: any = undefined;
 const today = new Date();
