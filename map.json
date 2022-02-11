@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/innolabtest\/map-test\/tts_test#entryFromMap"
+                 "value":"vestiaire.json#entryFromMap"
                 }],
          "type":"tilelayer",
          "visible":true,
