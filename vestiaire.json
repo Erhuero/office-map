@@ -471,7 +471,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/innolabtest\/map-test\/starterkit"
+                 "value":"\/@\/innolabtest\/map-test\/starterkit#enterFromVestiaire"
                 }],
          "type":"tilelayer",
          "visible":true,
