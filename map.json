@@ -102,9 +102,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"allowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.klaxoon.com\/participate\/board\/WSEW24YAV9PQ"
+                 "value":"https:\/\/app.klaxoon.com"
                 }],
          "type":"tilelayer",
          "visible":true,
